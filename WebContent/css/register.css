@@ -1,0 +1,32 @@
+@charset "UTF-8";
+.div{
+width: 100%;
+background:#e5ffff;
+position:static;
+
+}
+body{
+background-image: url(image/register.jpg);
+	position: static;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+ }
+ 
+ .div2{
+ background-image: url(image/register.jpg);
+	position: static;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;   
+ }
+ .bottom{
+ background: #e5ffff;
+ height: 80px;
+
+ }
+ .textinput{
+ height: 15px;
+ width: 150px;
+ }
+ 

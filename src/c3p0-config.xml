@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+<default-config>
+<property name="user">root</property>
+<property name="password">19960928WG</property>
+<property name="driverClass">org.mariadb.jdbc.Driver</property>
+<property name="jdbcUrl">jdbc:mariadb://localhost:3306/实验1</property>
+</default-config>
+</c3p0-config>
